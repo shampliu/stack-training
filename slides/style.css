@@ -1,0 +1,26 @@
+body {
+	background: #3d85c6;
+	font-family: "Source Sans Pro",Helvetica,sans-serif;
+}
+
+
+
+.reveal {
+	color: white !important;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+	color: white !important;
+}
+
+.reveal a {
+	color: #fffd98;
+}
+
+.reveal a:hover {
+	color: #ffea37;
+}
+
+.reveal section img {
+	border: none;
+}
